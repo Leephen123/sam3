@@ -1,0 +1,7 @@
+[
+  {"name": "table",     "prompts": {"wooden table": 0.55}},
+  {"name": "clothes",   "prompts": {"purple cloth": 0.50, "purple shirt": 0.50, "yellow cloth": 0.50, "blue cloth": 0.50}},
+  {"name": "pants",     "prompts": {"denim shorts": 0.50, "denim jeans": 0.72}},
+  {"name": "floor",     "prompts": {"wooden floor": 0.50}},
+  {"name": "robot_arm", "prompts": {"robot arm": 0.45, "robotic arm": 0.55, "robot gripper": 0.55}}
+]
